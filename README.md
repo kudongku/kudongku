@@ -1,4 +1,12 @@
 # 👋 안녕하세요, 백엔드 스프링 개발자, 구동현입니다.
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kudongku"
+  width="600"
+  height="300"
+/>
+</a>
+
 - [📝 : 이력서 보러가기](https://github.com/kudongku/kudongku)
 - 🎂 : 1999.01.21
 - 📱 : 010-9220- 3795
